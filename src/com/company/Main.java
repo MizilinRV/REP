@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	System.out.print("Second class");
-        System.out.print("Change on IDE ");
+        System.out.print("Change on GitHub");
     }
 }
